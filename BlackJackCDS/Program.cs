@@ -17,7 +17,6 @@ namespace BlackJackCardDrawSimulator
                 if (res == 2) { won++; }
                 res = 3;
             }
-
         }
         static int Sel(int rres, int wwon, int llost)
         {
